@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnlinePaymentApp</string>
+    <string name="paypal">Paypal</string>
+    <string name="carte">Carte</string>
+</resources>
